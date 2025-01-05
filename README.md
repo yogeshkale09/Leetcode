@@ -1,0 +1,1 @@
+I look at the daily challenge as a one-problem unrated contest. Like a contest problem, it appears at a specified time, enforces a time limit, and covers an arbitrary topic that you don't know in advance. Having a fixed start time gets you in the habit of checking LeetCode every day and working on a problem.
